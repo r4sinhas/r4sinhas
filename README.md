@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro Rasinhas!</h1>
-<h3 align="center">I'm currently a 3rd year Computer Science & Engineering student at at Universidade de Aveiro!</h3>
+<h3 align="center">I'm currently studying Computer Science at Universidade de Aveiro!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
