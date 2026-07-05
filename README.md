@@ -1,4 +1,11 @@
-<h1>Pedro Rasinhas</h1>
-<h3 align="center">I'm currently studying Computer Science at Universidade de Aveiro!</h3>
+## Pedro Rasinhas
 
-....
+Software Engineer - backend systems in Java and Rust.
+
+Currently at **Comboios de Portugal**
+
+---
+
+**Stack**
+
+`Java (Spring Boot)` `Rust (Tokio · axum)` `Kubernetes` `Docker` `AWS` `PostgreSQL` `MQTT` `Event-driven architecture` `CI/CD`
