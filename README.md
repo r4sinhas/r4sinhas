@@ -1,8 +1,6 @@
 ## Pedro Rasinhas
 
-Software Engineer - backend systems in Java and Rust.
-
-Currently at **Comboios de Portugal**
+Software Engineer - backend systems in Java and Rust. @CP - **Comboios de Portugal**
 
 ---
 
