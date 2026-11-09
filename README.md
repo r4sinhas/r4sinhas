@@ -1,6 +1,6 @@
 ## Pedro Rasinhas
 
-Software Engineer - backend systems in Java and Rust. @CP - **Comboios de Portugal**
+Software Engineer - @JUMO
 
 ---
 
